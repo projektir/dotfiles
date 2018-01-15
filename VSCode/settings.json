@@ -1,0 +1,27 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": 0,
+    "files.eol": "\n",
+    "rust.mode": "legacy",
+    "rust.rls": {
+        "useRustfmt": false
+    },
+    "rust.rustup": {
+        "toolchain": "nightly-x86_64-pc-windows-msvc",
+        "nightlyToolchain": "nightly-x86_64-pc-windows-msvc"
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code",
+    "editor.fontSize": 14,
+    "cmake.generator": "Visual Studio 15 2017",
+    "cmake.platform": "x64",
+    "cmake.toolset": "host=x64",
+    "cmake-tools-helper.cmake_download_path": "C:\\Users\\Nidhogg\\.vscode\\extensions\\maddouri.cmake-tools-helper-0.1.1\\cmake_download",
+    "cmake.configureSettings": {
+        "SDL2PP_WITH_TTF": "OFF",
+        "SDL2PP_WITH_MIXER": "OFF",
+        "CMAKE_PREFIX_PATH": ["C:/SDL_Linux/SDL2", "C:/SDL_Linux/SDL2_image"]
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "git.ignoreMissingGitWarning": true
+}
