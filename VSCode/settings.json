@@ -20,7 +20,7 @@
     "cmake.configureSettings": {
         "SDL2PP_WITH_TTF": "OFF",
         "SDL2PP_WITH_MIXER": "OFF",
-        "CMAKE_PREFIX_PATH": ["C:/SDL_Linux/SDL2", "C:/SDL_Linux/SDL2_image"]
+        "CMAKE_PREFIX_PATH": ["C:/SDL/SDL2", "C:/SDL/SDL2_image"]
     },
     "C_Cpp.intelliSenseEngineFallback": "Enabled",
     "git.ignoreMissingGitWarning": true
